@@ -92,6 +92,9 @@
     font-size: 25px;
     font-family: 'Ubuntu';
     padding-top: 200px;
+    margin: 60px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .h4 {
@@ -111,4 +114,9 @@
 .resize-img3 {
     width: 300x;
     height: 780px;
+}
+
+.stats {
+    font-size: 24px;
+    margin-left: 60px;
 }
